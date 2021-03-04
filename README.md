@@ -17,4 +17,4 @@ In neural networks, Convolutional Neural Network (ConvNets or CNNs) is one of th
 ![alt text](https://raw.githubusercontent.com/tirthjagad/Object_detection_and_Process_identification/master/Diagrams_and_Results/timeseries_consideration.jpg)
 
 # Based on Timeseries data process identificaiton result
-![alt text](https://raw.githubusercontent.com/tirthjagad/Object_detection_and_Process_identification/master/Diagrams_and_Results/From_video_process_Identification.jpg)
+![alt text](https://raw.githubusercontent.com/tirthjagad/Object_detection_and_Process_identification/master/Diagrams_and_Results/From_video_process_Identification.JPG)
